@@ -1,5 +1,5 @@
 # Lang-HL
-HL progarmming language
+HL - progarmming language compiles to perl.
 
 ## Example
 ```
